@@ -18,4 +18,6 @@ Archivos:
 - pizzeria_model.png → Diagrama entidad-relación
 - pizzeria.sql → Script SQL de creación de la base de datos
 - 
-![Diagrama de la base de datos](pizzeria_model.png)
+## Diagrama
+
+![Diagrama](pizzeria_model.png)
