@@ -20,4 +20,4 @@ Archivos:
 - 
 ## Diagrama
 
-![Diagrama](pizzeria_model.png)
+<img src="pizzeria_model.png" width="900">
